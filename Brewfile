@@ -13,6 +13,8 @@ cask install evernote
 cask install flux
 cask install google-chrome
 cask install google-japanese-ime
+cask install iterm2
+cask install skype
 cask install sourcetree
 cask install sublime-text
 cask install vagrant
