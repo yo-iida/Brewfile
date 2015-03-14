@@ -4,22 +4,24 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
-cask install --force alfred
-cask install --force appcleaner
-cask install --force colors
-cask install --force dash
-cask install --force dropbox
-cask install --force evernote
-cask install --force flux
-cask install --force google-chrome
-cask install --force google-japanese-ime
-cask install --force iterm2
-cask install --force skype
-cask install --force sourcetree
-cask install --force sublime-text
-cask install --force vagrant
-cask install --force virtualbox
-cask install --force xquartz
+cask install alfred
+cask install appcleaner
+cask install colors
+cask install dash
+cask install dropbox
+cask install evernote
+cask install filezilla
+cask install flux
+cask install google-chrome
+cask install google-japanese-ime
+cask install iterm2
+cask install skitch
+cask install skype
+cask install sourcetree
+cask install sublime-text
+cask install vagrant
+cask install virtualbox
+cask install xquartz
 
 ## homebrew/science
 tap homebrew/science
@@ -36,6 +38,7 @@ tap sanemat/font
 install ricty
 
 # Other Homebrew packages
+install ansible
 install cairo
 install czmq
 install fontconfig
@@ -53,20 +56,25 @@ install libffi
 install libpng
 install libtiff
 install libtool
+install libyaml
+install mysql
+install nkf
 install openssl
 install pango
 install pixman
+install postgresql
 install python
 install readline
 install sqlite
 install zeromq
-install ansible
 
 # App Store applications
 appstore GarageBand
 appstore iMovie
+appstore InstaFeed
 appstore iPhoto
 appstore Keynote
+appstore Kobito
 appstore LINE
 appstore Numbers
 appstore Pages
