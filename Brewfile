@@ -60,6 +60,7 @@ install libtool
 install libyaml
 install mysql
 install nkf
+install node
 install openssl
 install pango
 install pixman
