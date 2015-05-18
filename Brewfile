@@ -52,11 +52,13 @@ brew fontforge
 brew freetype
 brew gdbm
 brew gettext
+brew ghostscript
 brew git
 brew glib
 brew gobject-introspection
 brew harfbuzz
 brew icu4c
+brew imagemagick
 brew java
 brew jpeg
 brew libevent
@@ -65,12 +67,14 @@ brew libpng
 brew libtiff
 brew libtool
 brew libyaml
+brew mecab mecab-ipadic
 brew memcached
 brew mysql
 brew nkf
 brew node
 brew openssl
 brew pango
+brew phantomjs
 brew pixman
 brew pkg-config
 brew postgresql
