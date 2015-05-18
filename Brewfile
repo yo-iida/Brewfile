@@ -83,6 +83,7 @@ brew rbenv
 brew readline
 brew ruby-build
 brew sqlite
+brew wget
 brew zeromq
 
 # App Store applications
