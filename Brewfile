@@ -3,26 +3,26 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install alfred
-cask install appcleaner
-cask install aptanastudio
-cask install colors
-cask install dash
-cask install dropbox
-cask install evernote
-cask install filezilla
-cask install flux
-cask install google-chrome
-cask install google-japanese-ime
-cask install iterm2
-cask install skitch
-cask install skype
-cask install sourcetree
-cask install sublime-text
-cask install vagrant
-cask install virtualbox
-cask install xquartz
+brew brew-cask
+cask alfred
+cask appcleaner
+cask aptanastudio
+cask colors
+cask dash
+cask dropbox
+cask evernote
+cask filezilla
+cask flux
+cask google-chrome
+cask google-japanese-ime
+cask iterm2
+cask skitch
+cask skype
+cask sourcetree
+cask sublime-text
+cask vagrant
+cask virtualbox
+cask xquartz
 
 ## homebrew/science
 tap homebrew/science
@@ -32,55 +32,53 @@ tap homebrew/versions
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 ## sanemat/font
 tap sanemat/font
-install ricty
+brew ricty
 
 # Other Homebrew packages
-install ansible
-install cairo
-install czmq
-install fontconfig
-install fontforge
-install freetype
-install gdbm
-install gettext
-install git
-install glib
-install gobject-introspection
-install harfbuzz
-install icu4c
-install jpeg
-install libffi
-install libpng
-install libtiff
-install libtool
-install libyaml
-install memcached
-install mysql
-install nkf
-install node
-install openssl
-install pango
-install pixman
-install postgresql
-install python
-install rbenv
-install ruby-build
-install readline
-install sqlite
-install zeromq
+brew ansible
+brew autoconf
+brew cairo
+brew czmq
+brew fontconfig
+brew fontforge
+brew freetype
+brew gdbm
+brew gettext
+brew git
+brew glib
+brew gobject-introspection
+brew harfbuzz
+brew icu4c
+brew jpeg
+brew libevent
+brew libffi
+brew libpng
+brew libtiff
+brew libtool
+brew libyaml
+brew memcached
+brew mysql
+brew nkf
+brew node
+brew openssl
+brew pango
+brew pixman
+brew pkg-config
+brew postgresql
+brew python
+brew rbenv
+brew readline
+brew ruby-build
+brew sqlite
+brew zeromq
 
 # App Store applications
 appstore GarageBand
 appstore iMovie
-appstore InstaFeed
-appstore iPhoto
 appstore Keynote
-appstore Kobito
-appstore LINE
 appstore Numbers
 appstore Pages
-appstore Xcode
