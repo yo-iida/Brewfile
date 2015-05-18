@@ -58,6 +58,7 @@ install libpng
 install libtiff
 install libtool
 install libyaml
+install memcached
 install mysql
 install nkf
 install node
@@ -66,6 +67,8 @@ install pango
 install pixman
 install postgresql
 install python
+install rbenv
+install ruby-build
 install readline
 install sqlite
 install zeromq
