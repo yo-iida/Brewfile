@@ -1,8 +1,8 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
-tap caskroom/cask
+## Caskroom/cask
+tap Caskroom/cask
 brew brew-cask
 cask alfred
 cask appcleaner
@@ -24,6 +24,9 @@ cask vagrant
 cask virtualbox
 cask xquartz
 
+## caskroom/cask
+tap caskroom/cask
+
 ## homebrew/science
 tap homebrew/science
 
@@ -43,6 +46,7 @@ brew ansible
 brew autoconf
 brew cairo
 brew czmq
+brew elasticsearch
 brew fontconfig
 brew fontforge
 brew freetype
@@ -53,6 +57,7 @@ brew glib
 brew gobject-introspection
 brew harfbuzz
 brew icu4c
+brew java
 brew jpeg
 brew libevent
 brew libffi
