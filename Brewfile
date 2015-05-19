@@ -57,6 +57,7 @@ brew git
 brew glib
 brew gobject-introspection
 brew harfbuzz
+brew hub
 brew icu4c
 brew imagemagick
 brew java
