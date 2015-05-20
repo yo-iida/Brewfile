@@ -84,6 +84,7 @@ brew rbenv
 brew readline
 brew ruby-build
 brew sqlite
+brew sqlitebrowser
 brew wget
 brew zeromq
 
