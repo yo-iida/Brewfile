@@ -19,6 +19,7 @@ cask iterm2
 cask skitch
 cask skype
 cask sourcetree
+cask spectacle
 cask sublime-text
 cask vagrant
 cask virtualbox
