@@ -73,7 +73,7 @@ brew mecab mecab-ipadic
 brew memcached
 brew mysql
 brew nkf
-brew node
+brew nodebrew
 brew openssl
 brew pango
 brew phantomjs
