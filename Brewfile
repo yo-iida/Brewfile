@@ -16,6 +16,7 @@ cask flux
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
+cask sequel-pro
 cask skitch
 cask skype
 cask sourcetree
