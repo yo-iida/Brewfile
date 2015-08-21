@@ -84,6 +84,7 @@ brew postgresql
 brew python
 brew rbenv
 brew readline
+brew redis
 brew ruby-build
 brew sqlite
 brew sqlitebrowser
