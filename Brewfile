@@ -88,6 +88,7 @@ brew redis
 brew ruby-build
 brew sqlite
 brew sqlitebrowser
+brew tmux
 brew wget
 brew zeromq
 
