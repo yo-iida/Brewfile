@@ -69,6 +69,8 @@ brew libffi
 brew libpng
 brew libtiff
 brew libtool
+brew libxml2
+brew libxslt
 brew libyaml
 brew mecab mecab-ipadic
 brew memcached
