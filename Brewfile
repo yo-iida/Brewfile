@@ -88,6 +88,7 @@ brew rbenv
 brew readline
 brew redis
 brew ruby-build
+brew the_silver_searcher
 brew sqlite
 brew sqlitebrowser
 brew tmux
